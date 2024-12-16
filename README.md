@@ -14,6 +14,8 @@ This repository is a fork of [serebrov/emoji-mart-vue](https://github.com/serebr
 - included only one emoji set (twemoji), which is the most popular. To reduce the total bundle size. You can easily download other sets from [data](htps://github.com/mergehez/vue-emoji-picker/tree/main/public/data) folder.
 - improved keyboard navigation
 
+### [live demo](https://emoji-picker.mergesoft.dev/)
+
 ## Installation
 
 ```bash
